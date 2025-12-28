@@ -18,9 +18,9 @@
         opacity: .66
     }
 } /*! ClearVision v7.0.1 by ClearVision Team */ ._2debea61131de3de - info::after {
-    content: "ClearVision"
+    content: "Tedcord"
     " "
-    "7.0.1";color: var (--text - muted);font - size: 12 px;line - height: 1.3333333333;font - weight: 400;font - family: var (--font - primary)
+    "1.0.1";color: var (--text - muted);font - size: 12 px;line - height: 1.3333333333;font - weight: 400;font - family: var (--font - primary)
 }: is(.theme - dark, .theme - light): not(.platform - osx).c38106a3f0c3ca76 - leading::before {
     content: "ClearVision";position: static;margin - left: 10 px;font - size: 16 px;font - weight: 600;color: var (--text -
         default);order: 2;filter: drop - shadow(0 0 5 px
