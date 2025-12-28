@@ -1,0 +1,72 @@
+/*! ClearVision v7.0.1 by ClearVision Team */
+@keyframes cv - channel - select {
+    from {
+        right: 100 %
+    }
+    to {
+        right: 0
+    }
+}
+@keyframes cv - card - loading {
+    0 % {
+        opacity: .66
+    }
+    50 % {
+        opacity: .33
+    }
+    100 % {
+        opacity: .66
+    }
+} /*! ClearVision v7.0.1 by ClearVision Team */ ._2debea61131de3de - info::after {
+    content: "ClearVision"
+    " "
+    "7.0.1";color: var (--text - muted);font - size: 12 px;line - height: 1.3333333333;font - weight: 400;font - family: var (--font - primary)
+}: is(.theme - dark, .theme - light): not(.platform - osx).c38106a3f0c3ca76 - leading::before {
+    content: "ClearVision";position: static;margin - left: 10 px;font - size: 16 px;font - weight: 600;color: var (--text -
+        default);order: 2;filter: drop - shadow(0 0 5 px
+        var (--hsl - main - color))
+}: is(.theme - dark, .theme - light): not(.platform - osx).c38106a3f0c3ca76 - leading::after {
+    content: "7.0.1";position: static;margin - top: -5 px;margin - left: 5 px;font - family: var (--code - font);font - size: 11 px;font - weight: 600;color: var (--text - muted);order: 3
+} /*! ClearVision v7.0.1 by ClearVision Team */ ._201d5e8a3c09670a - button {
+    border - radius: 4 px
+}._201d5e8a3c09670a - lookFilled: is(._201d5e8a3c09670a - colorBrand, ._201d5e8a3c09670a - colorPrimary) {
+    background - color: var (--hsl - main - color);
+    border: none
+}._201d5e8a3c09670a - lookFilled: is(._201d5e8a3c09670a - colorBrand, ._201d5e8a3c09670a - colorPrimary): hover {
+    background - color: var (--hsl - hover - color)
+}._201d5e8a3c09670a - lookFilled: is(._201d5e8a3c09670a - colorBrand, ._201d5e8a3c09670a - colorPrimary): disabled {
+    background - color: var (--hsl - main - color)
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorGreen {
+    background - color: var (--hsl - success - color);
+    border: none
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorGreen: hover {
+    background - color: hsl(from
+        var (--hsl - success - color) h s l / 0.8)
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorGreen: disabled {
+    background - color: hsl(from
+        var (--hsl - success - color) h s l / 0.8)
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorRed {
+    background - color: var (--hsl - danger - color);
+    border: none
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorRed: hover {
+    background - color: hsl(from
+        var (--hsl - danger - color) h s l / 0.8)
+}._201d5e8a3c09670a - lookFilled._201d5e8a3c09670a - colorRed: disabled {
+    background - color: var (--hsl - danger - color)
+}._201d5e8a3c09670a - lookFilled: is(._201d5e8a3c09670a - colorWhite, ._201d5e8a3c09670a - colorBrandInverted) {
+    color: var (--hsl - main - color);border: none
+}._201d5e8a3c09670a - lookFilled: is(._201d5e8a3c09670a - colorWhite, ._201d5e8a3c09670a - colorBrandInverted): hover {
+    color: var (--hsl - hover - color)
+}._201d5e8a3c09670a - lookOutlined: is(._201d5e8a3c09670a - colorBrand, ._201d5e8a3c09670a - colorPrimary) {
+    border - color: var (--hsl - main - color)
+}._201d5e8a3c09670a - lookOutlined: is(._201d5e8a3c09670a - colorBrand, ._201d5e8a3c09670a - colorPrimary): hover {
+    border - color: var (--hsl - hover - color);
+    background - color: var (--hsl - hover - color)
+}._201d5e8a3c09670a - lookOutlined._201d5e8a3c09670a - colorGreen {
+    border - color: var (--hsl - success - color)
+}._201d5e8a3c09670a - lookOutlined._201d5e8a3c09670a - colorGreen: hover {
+    border - color: hsl(from
+        var (--hsl - success - color) h s l / 0.8);
+    background - color: hsl(from
+        var (--hsl - success - color) h s l / 0.8)
+}._201d5e8a3c09670a -
